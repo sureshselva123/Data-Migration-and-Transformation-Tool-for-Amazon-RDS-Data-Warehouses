@@ -7,8 +7,8 @@ from sqlalchemy import create_engine
 from sqlalchemy import text 
 
 # Replace the placeholders with your AWS credentials
-aws_access_key_id = "AKIA4MTWLZQBMV4UCEUF"
-aws_secret_access_key = "NPXsG/1px+eNcb6kpKQM+dw6c9b8572JHRPrwelD"
+aws_access_key_id = " "
+aws_secret_access_key = " "
 bucket_name = "datamigrationaws"
 folder_name = "data/"
 
